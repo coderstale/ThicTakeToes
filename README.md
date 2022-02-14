@@ -1,1 +1,1 @@
-# ThicTakeToes
+# TicTacToe game made for fun!
